@@ -1,0 +1,1 @@
+{"bin":{"trade-journal":"bin/trade-journal.js"},"description":"Analyze a trading journal CSV: win rate, profit factor, drawdown","engines":{"node":">=18"},"files":["bin","examples"],"license":"MIT","name":"trade-journal","scripts":{"test":"node --test"},"version":"1.0.0"}
